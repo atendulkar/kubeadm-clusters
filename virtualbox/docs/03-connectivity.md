@@ -40,5 +40,5 @@ and check to make sure that only the key(s) you wanted were added.
 ```
 
 
-Next: [Node Setup](../../generic/04-node-setup.md)<br>
+Next: [Node Setup](../../cluster-setup/04-node-setup.md)<br>
 Prev: [Compute Resources](02-compute-resources.md)
